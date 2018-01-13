@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 /*!
 * Bootstrap 4.0.0-beta (https://getbootstrap.com)
 * Copyright 2011-2017 The Bootstrap Authors
@@ -2847,7 +2848,7 @@ button.list-group-item-dark {
   display: block;
   max-width: 276px;
   padding: 1px;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   line-height: 1.5;
@@ -3063,7 +3064,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: Roboto;
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
@@ -3482,7 +3483,7 @@ template {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   line-height: 1.5;
