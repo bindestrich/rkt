@@ -666,11 +666,11 @@ fieldset[disabled] a.btn {
 
 .btn-link {
   font-weight: normal;
-  color: #c50000;
+  color: #0D2240;
   background-color: transparent;
   border-radius: 0; }
   .btn-link:hover {
-    color: #790000;
+    color: black;
     text-decoration: underline;
     background-color: transparent;
     border-color: transparent; }
@@ -2805,11 +2805,11 @@ button.list-group-item-dark {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #c50000;
+  color: #0D2240;
   background-color: #fff;
   border: 1px solid #ddd; }
   .page-link:focus, .page-link:hover {
-    color: #790000;
+    color: black;
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #ddd; }
@@ -3146,12 +3146,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #c50000;
+  color: #0D2240;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #790000;
+    color: black;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
