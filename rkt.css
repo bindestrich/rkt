@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Squada One");
+@import url("https://fonts.googleapis.com/css?family=ocr-a");
 @import url("https://fonts.googleapis.com/css?family=Roboto");
 /*!
 * Bootstrap 4.0.0-beta (https://getbootstrap.com)
@@ -3583,7 +3585,7 @@ tbody.collapse.show {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.75rem;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: Squada One;
   font-weight: 500;
   line-height: 1.1;
   color: inherit; }
