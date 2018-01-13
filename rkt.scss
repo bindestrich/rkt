@@ -1,6 +1,10 @@
 
 
 // Semantic color scheme
+; 
+@import url('https://fonts.googleapis.com/css?family=Squada One'); 
+@import url('https://fonts.googleapis.com/css?family=ocr-a'); 
+; 
 @import url('https://fonts.googleapis.com/css?family=Roboto'); 
 $theme-colors: (
   primary: #0D2240,
@@ -39,7 +43,10 @@ $link-color: #0D2240;
 
 $font-family-base: Roboto;
 
-$headings-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$headings-font-family: Squada One;
+
+
+
 
 $font-size-base: 1rem; // Assumes the browser default, typically `16px`
 $font-size-h1: 2.5 * $font-size-base;
